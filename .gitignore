@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+logs/
+*.log
+*.pem
+*.key
+*.p12
+*.sso
+*.ora
+Wallet_*/
+.streamlit/secrets.toml
